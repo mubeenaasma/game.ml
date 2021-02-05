@@ -1,8 +1,8 @@
 # snake_game_ml
 play snake game with your audio
 
-I have done this game Alone
-18pa1a0595
+I have done this game with team members
+18pa1a0595,18pa1a05e8
 
 # How to play game ?
 
